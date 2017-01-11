@@ -16,3 +16,4 @@ Topics:
 •	Hotspots on linear networks
 •	Spatial point processes on linear networks
 
+if yoy have some questions or comments please contact us by email to Fernando Benitez - benitezm@uji.es 
