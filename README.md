@@ -2,7 +2,7 @@
 4th Participatory Workshop of CityData 3.0 initiative for AGILE 2017 Conference in  Wageningen University, The Netherlands.
 This aim repository is to collect all the positions papers related to the topics of this workshop.
 
-If you are interested in present and share yor work with us and be part of our open discussion in next AGILE conference. Do not hesitage of summit your position paper. 
+If you are interested in present and share yor work with us and be part of our open discussion in next AGILE conference. Do not hesitage to summit your position paper and be part of our community and discussion.  
 
 Topics:
 
