@@ -4,19 +4,10 @@
 This aim repository is to collect all the positions papers related to the topics of this workshop.
 http://opendata4opencities.uji.es
 
-Topics:
-•	Open Data
-•	Re-use and discover the level of available information in cities' open data portals.
-•	Open data engagement mechanisms.
-•	Data selection process
-•	Spatial data quality
-•	Fitness for use criterions
-•	Spatial analysis of open data using R language
-•	Hotspots on linear networks
-•	Spatial point processes on linear networks
+## DO NOT FORGET BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCCIONS FOR THE INTEREACTIVE SESSION WITH POINT PROCESS ANALYSIS ##
 
-DETAILED AGENDA ## DO NOT FORGET BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCCIONS FOR THE INTEREACTIVE SESION WITH POINT PROCESS ANALYSIS ##
 
+DETAILED AGENDA 
 9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 9:30 – 10:00	Keynote Talk:  Barriers in working with  Open Data.	Heleen Vollers, European Data Portal.
 10:00 – 10:20	Open data portals as part of the open data ecosystem?  Lessons learned from geoportal research.	Bastiaan van Loenen, Knowledge Centre Open Data.
