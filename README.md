@@ -1,5 +1,4 @@
-# Open Data for Open Cities full day Workshop: Re-use and discovery level 
-applied to the spatial point analysis process on linear networks.
+# Open Data for Open Cities full day Workshop: Re-use and discovery level, applied to the spatial point analysis process on linear networks.
 
 
 5th Participatory Workshop of CityData 3.0 initiative for AGILE 2017 Conference in  Wageningen University, The Netherlands.
