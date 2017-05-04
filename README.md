@@ -15,7 +15,7 @@ Topics:
 •	Hotspots on linear networks
 •	Spatial point processes on linear networks
 
-DETAILED AGENDA ## DO NOT FORGET BRING YOU OWN LAPTPOS AND FOLLOW THE INSTALLATION INSTRUCCION FOR THE INTEREACTIVE SESION WITH POINT PROCESS ANALYSIS ##
+DETAILED AGENDA ## DO NOT FORGET BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCCIONS FOR THE INTEREACTIVE SESION WITH POINT PROCESS ANALYSIS ##
 
 9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 9:30 – 10:00	Keynote Talk:  Barriers in working with  Open Data.	Heleen Vollers, European Data Portal.
