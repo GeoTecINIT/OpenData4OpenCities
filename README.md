@@ -4,7 +4,7 @@
 This aim repository is to collect all the positions papers related to the topics of this workshop.
 http://opendata4opencities.uji.es
 
-### DO NOT FORGET TO BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCTIONS FOR THE INTERACTIVE SESSION WITH POINT PROCESS ANALYSIS 
+### DO NOT FORGET TO BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCTIONS [a link](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/Installation%20Instruccions/Instuctions4SpatialPointProcessAnalysis.pdf) FOR THE INTERACTIVE SESSION WITH POINT PROCESS ANALYSIS 
 
 
 DETAILED AGENDA 
