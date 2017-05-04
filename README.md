@@ -1,13 +1,10 @@
 # Open Data for Open Cities full day Workshop: Re-use and discovery level, applied to the spatial point analysis process on linear networks.
 
-
 5th Participatory Workshop of CityData 3.0 initiative for AGILE 2017 Conference in  Wageningen University, The Netherlands.
 This aim repository is to collect all the positions papers related to the topics of this workshop.
-
-If you are interested in present and share yor work with us and be part of our open discussion in next AGILE conference. Do not hesitage to summit your position paper and be part of our community and discussion.  
+http://opendata4opencities.uji.es
 
 Topics:
-
 •	Open Data
 •	Re-use and discover the level of available information in cities' open data portals.
 •	Open data engagement mechanisms.
@@ -34,9 +31,7 @@ point process models for seismical analysis.	Marianna Siino,  Dipartimento di Sc
 16:30 – 17:00	Open Discussion and Conclusions for a workshop report and future outcomes.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 
 Keynote Speaker.
-Heleen Vollers
-
-Heleen is a Senior Management Consultant at Capgemini Consulting. She works in the Public Insights & Data practice of Capgemini Consulting where she is a member of Capgemini’s global EU account.
+Heleen Vollers: Senior Management Consultant at Capgemini Consulting. She works in the Public Insights & Data practice of Capgemini Consulting where she is a member of Capgemini’s global EU account.
 
 Heleen is actively involved in the development of the European Data Portal and associated services, on behalf of the European Commission – DG CONNECT. She is the stream lead on support services to countries as they mature on their Open Data journey and is in charge of stakeholder management. In addition, she leads the research work on measuring the level of Open Data maturity across Europe.
 
