@@ -2,7 +2,7 @@
 
 5th Participatory Workshop of [initiative CityData 3.0](http://opendata4opencities.uji.es) for AGILE 2017 Conference in  Wageningen University, The Netherlands.
 
-In case you find the resources of this page useful to incorporate them in your projetcs or research, the authors appreciate to be mentioned. 
+In case you find the resources of this page useful to incorporate them in your projects or research, the authors appreciate to be mentioned. 
 Fernando Benitez, Universitat Jaume I, Spain - benitezm@uji.es
 Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
 [GeoC: Enabling Open Cities](http://geo-c.eu/)
