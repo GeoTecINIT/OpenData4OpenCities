@@ -1,11 +1,11 @@
 # Open Data for Open Cities full day Workshop: Re-use and discovery level, applied to the spatial point analysis process on linear networks.
 
-5th Participatory Workshop of [initiative CityData 3.0] (http://opendata4opencities.uji.es) for AGILE 2017 Conference in  Wageningen University, The Netherlands.
+5th Participatory Workshop of [initiative CityData 3.0](http://opendata4opencities.uji.es) for AGILE 2017 Conference in  Wageningen University, The Netherlands.
 
 In case you find the resources of this page useful to incorporate them in your projetcs or research, the authors appreciate to be mentioned. 
 Fernando Benitez, Universitat Jaume I, Spain - benitezm@uji.es
 Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
-[GeoC: Enabling Open Cities] (http://geo-c.eu/)
+[GeoC: Enabling Open Cities](http://geo-c.eu/)
 
 Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
 
