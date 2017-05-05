@@ -9,7 +9,9 @@ Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
 
 Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
 
-## Hand-on Excersice 
+## Hand-on Excersices and Open Discussion. 
+The purpose of the hands-on session is to cover the basics of interacting with APIs and to extract summary statistics from the datasets acquired. All materials can be found in the Tutorial.
+
 
 ### DO NOT FORGET TO BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCTIONS [here](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/Installation%20Instruccions/Instuctions4SpatialPointProcessAnalysis.pdf) FOR THE INTERACTIVE SESSION WITH POINT PROCESS ANALYSIS 
 
