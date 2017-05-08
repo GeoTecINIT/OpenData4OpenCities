@@ -59,20 +59,20 @@ This wokrshop and method requiere at least two kind of datasets.
 Shapefile of the streets network. provided by [Medellin Open Data portal.](https://geomedellin-m-medellin.opendata.arcgis.com/)
 
 * Dots or event points:
-For the workshop we will use accident point in a shapefile provided by [Medellin Open Data portal.](https://geomedellin-m-medellin.opendata.arcgis.com/)
+For the workshop we use accident points in a shapefile provided by [Medellin Open Data portal.](https://geomedellin-m-medellin.opendata.arcgis.com/)
 
 
 ## Validating the spatial data requeriments.
-We will use some open data from some cities for this workshop, however as you know some of open data do not fit the spatial analysis requeriments, and we need to do some steps before to have the correct data for our analysis. Here some stept that you MUST to guarantee before rum some lines in R. 
+We use some open data from some cities for this workshop, however as you know some of open data do not fit the spatial analysis requeriments, and we need to do some steps before to have the correct data for our analysis. Here some stept that you MUST guarantee before rum some lines in R. 
 
 * Validate the spatial reference:
-Lot of Open data portals handle thier own spatial reference system, especially the cities' open data portals which have local data using local datum or not custumized datum for their reference. Useful for them when they need more accuary.
+Lots of Open data portals handle thier own spatial reference system, especially the cities' open data portals which have local data using local datum or not custumized datum for their reference. Useful for them when they need more accuary.
 
-You MUST guarantee that both dataset has the same spatial reference. 
+You MUST guarantee that both dataset (events and network) have the same spatial reference. 
 
 * Validate the connectity along street network.
 In order to run properly the R analysis we must guarantee that there is not isolate lines, or "island" of lines, all networks should be connected. 
-You can validate their connectivy usng a GIS client such as ArcGIS or QGIS.
+You can validate their connectivy using a GIS client such as ArcGIS or QGIS.
 1. ArcGIS
 2.QGIS.
 
