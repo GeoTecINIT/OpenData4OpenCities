@@ -25,13 +25,13 @@ useful.
 3. Find and install the latest version of Rtools.exe [here](https://cran.r-project.org/) if you are a Windows user. 
 4. Open RStudio and install packages "spatstat.utils", "spatstat" and "maptools", you can use the following codes:
 ```
-install.packages(\spatstat.utils")
+install.packages("spatstat.utils")
 ```
 ```
-install.packages(\spatstat")
+install.packages("spatstat")
 ```
 ```
-install.packages(\maptools")
+install.packages("maptools")
 ```
 5. We may need the latest unpublished version of "spatstat.utils" and "spatstat", you can install
 latest version from GitHub through following codes:
@@ -39,14 +39,14 @@ latest version from GitHub through following codes:
 require(remotes)
 ```
 ```
-install github('spatstat/spatstat.utils')
+install_github('spatstat/spatstat.utils')
 ```
 ```
-install github('spatstat/spatstat')
+install_github('spatstat/spatstat')
 ```
-If you do not have \remotes" installed, you should first run
+If you do not have "remotes" installed, you should first run
 ```
-install.packages(\remotes")
+install.packages("remotes")
 ```
 6. You may need to study some parts of [Spatial Point Patterns: Methodology and Applications with
 R](https://www.crcpress.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200), especially last chapter.
