@@ -1,4 +1,4 @@
-# Open Data for Open Cities full day Workshop: Re-use and discovery level, applied to the spatial point analysis process on linear networks.
+﻿# Open Data for Open Cities full day Workshop: Re-use and discovery level, applied to the spatial point analysis process on linear networks.
 
 5th Participatory Workshop of [initiative CityData 3.0](http://opendata4opencities.uji.es) for AGILE 2017 Conference in  Wageningen University, The Netherlands.
 
@@ -23,7 +23,7 @@ useful.
 1. Find and install the latest version of R from [here](https://cran.r-project.org/)
 2. Download and install the latest version of RStudio from [here](https://www.rstudio.com/products/rstudio/download2/)
 3. Find and install the latest version of Rtools.exe [here](https://cran.r-project.org/) if you are a Windows user. 
-4. Open RStudio and install packages \spatstat.utils", \spatstat" and \maptools", you can use the following codes:
+4. Open RStudio and install packages "spatstat.utils", "spatstat" and "maptools", you can use the following codes:
 ```
 install.packages(\spatstat.utils")
 ```
@@ -33,7 +33,7 @@ install.packages(\spatstat")
 ```
 install.packages(\maptools")
 ```
-5. We may need the latest unpublished version of \spatstat.utils" and \spatstat", you can install
+5. We may need the latest unpublished version of "spatstat.utils" and "spatstat", you can install
 latest version from GitHub through following codes:
 ```
 require(remotes)
