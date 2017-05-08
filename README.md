@@ -96,7 +96,6 @@ point process models for seismical analysis.	Marianna Siino,  Dipartimento di Sc
 * 16:00 – 16:30	Interactive session with point process analysis Part II: Learn how to find the hotspots in cities’ street network.	Fernando Benitez,  Mehdi Moradi
 * 16:30 – 17:00	Open Discussion and Conclusions outline for a research report and future outcomes, related to re-use, discoverability and relevant open data in cities.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 
-
 ## Keynote Speaker.
 
 Heleen Vollers: Senior Management Consultant at Capgemini Consulting. She works in the Public Insights & Data practice of Capgemini Consulting where she is a member of Capgemini’s global EU account.
