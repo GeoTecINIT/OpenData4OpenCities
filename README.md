@@ -10,12 +10,34 @@ Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
 Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
 
 ## Hand-on Excersices and Open Discussion. 
-The purpose of the hands-on session is to cover the basics of interacting with APIs and to extract summary statistics from the datasets acquired. All materials can be found in the Tutorial.
+The purpose of the hands-on session is to cover the discussion about reuse of open data, and apply the current open data in a spatial point process which needs some instruccton to get the rigth results, during this workshop we will cover some theorical aspects relates to how open data should be gathered and how we can analyst using point processes.
 
+## Before the Workshop
 
 ### DO NOT FORGET TO BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCTIONS [here](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/Installation%20Instruccions/Instuctions4SpatialPointProcessAnalysis.pdf) FOR THE INTERACTIVE SESSION WITH POINT PROCESS ANALYSIS 
 
+## Install software requeriments.
 
+In order to get ready for the session on spatial point processes, you may nd the following information
+useful.
+
+1. Find and install the latest version of R from (here)[https://cran.r-project.org/]
+2. Download and install the latest version of RStudio from (here)[https://www.rstudio.com/products/rstudio/download2/]
+3. Find and install the latest version of Rtools.exe (here)[https://cran.r-project.org/] if you are a Windows user. 
+4. Open RStudio and install packages \spatstat.utils", \spatstat" and \maptools", you can use the following codes:
+'install.packages(\spatstat.utils")'
+'install.packages(\spatstat")'
+'install.packages(\maptools")'
+5. We may need the latest unpublished version of \spatstat.utils" and \spatstat", you can install
+latest version from GitHub through following codes:
+
+'require(remotes)'
+'install github('spatstat/spatstat.utils')'
+'install github('spatstat/spatstat')'
+If you do not have \remotes" installed, you should first run
+'install.packages(\remotes")'
+6. You may need to study some parts of Spatial Point Patterns: Methodology and Applications with
+R[https://www.crcpress.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200], especially last chapter.
 
 DETAILED AGENDA 
 9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
