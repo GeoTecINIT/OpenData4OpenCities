@@ -18,12 +18,12 @@ The purpose of the hands-on session is to cover the discussion about reuse of op
 
 ## Install software requeriments.
 
-In order to get ready for the session on spatial point processes, you may nd the following information
+In order to get ready for the session on spatial point processes, you may find the following information
 useful.
 1. Find and install the latest version of R from [here](https://cran.r-project.org/)
 2. Download and install the latest version of RStudio from [here](https://www.rstudio.com/products/rstudio/download2/)
 3. Find and install the latest version of Rtools.exe [here](https://cran.r-project.org/) if you are a Windows user. 
-4. Open RStudio and install packages \spatstat.utils", \spatstat" and \maptools", you can use the following codes:
+4. Open RStudio and install packages \spatstat.utils, \spatstat and \maptools, you can use the following codes:
 ```
 install.packages("spatstat.utils")
 ```
@@ -65,36 +65,47 @@ For the workshop we will use accident point in a shapefile provided by [Medellin
 ## Validating the spatial data requeriments.
 We will use some open data from some cities for this workshop, however as you know some of open data do not fit the spatial analysis requeriments, and we need to do some steps before to have the correct data for our analysis. Here some stept that you MUST to guarantee before rum some lines in R. 
 
-* Validate the spatial reference:
+### Validate the spatial reference:
 Lot of Open data portals handle thier own spatial reference system, especially the cities' open data portals which have local data using local datum or not custumized datum for their reference. Useful for them when they need more accuary.
 
 You MUST guarantee that both dataset has the same spatial reference. 
 
-* Validate the connectity along street network.
+### Validate the connectity along street network.
 In order to run properly the R analysis we must guarantee that there is not isolate lines, or "island" of lines, all networks should be connected. 
 You can validate their connectivy usng a GIS client such as ArcGIS or QGIS.
-1. ArcGIS
-2.QGIS.
+* ArcGIS.
+* QGIS.
+* R.
 
 
 ## DETAILED AGENDA 
 
-* [9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi]
-* [9:30 – 10:00	Keynote Talk:  Barriers in working with  Open Data.	Heleen Vollers, European Data Portal.]
-* [10:00 – 10:20	Open data portals as part of the open data ecosystem?  Lessons learned from geoportal research.	Bastiaan van Loenen, Knowledge Centre Open Data. Joep Crompvoets, Instituut Voor de Overheid]
-* [10:30 – 10:50	Integrating geological and seismological data in point process models for seismical analysis.	Marianna Siino,  Dipartimento di Scienze Economiche, Italy]
-* [11:00 – 11:20	Crime and Open Data, Use case Spain.	Raquel Martin-Pozuelo, Master GeoTec, Spain]
-* [11:30 – 11: 40	Open data and disaster management.	Ditsuhi Iskandaryan, Master GeoTec, Spain]
-* [12:00 – 13:00	Lunchtime]
-* [13:00 – 14:30	Hands-on session: Finding relevant open geographic data in cities.	Fernando Benitez]
-* [15:00 – 16:30	Interactive session with point process analysis: Learn how to find the hotspots in cities’ street network.	Mohamad Mehdi Moradi]
-* [16:30 – 17:00	Open Discussion and Conclusions for a workshop report and future outcomes.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi]
+* 9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
+* 9:30 – 10:00	Keynote Talk:  Barriers and benefits in working with Open Data.	Heleen Vollers, European Data Portal.
+* 10:00 – 10:30	Open data portals as part of the open data ecosystem? Lessons learned from geoportal research.	Bastiaan van Loenen, Knowledge Centre Open Data
+Joep Crompvoets, Instituut voor de Overheid
+* 10:30 – 11:00	Coffee Break
+* 11:00 – 11:20	Integreating geological and seismological data in
+point process models for seismical analysis.	Marianna Siino,  Dipartimento di Scienze Economiche, Palermo, Italy
+* 11:30 – 11:50	Crime and Open Data, Use case Spain.	Raquel Martin-Pozuelo Ojalbo, Master GeoTec, Spain
+* 12:00 – 12: 20	Open data and disaster management.	Ditsuhi Iskandaryan, Master GeoTec, Spain
+* 12:30 – 13:30	Lunchtime
+* 13:40 – 14:30	Open Discussion:  Hands-on Activity, Open Data and its impact	Fernando Benitez, Medhi Moradi
+* 14:30 – 15:30	Interactive session,  Part I with point process analysis: Learn how to find the hotspots in cities’ street network. Theory part	Medhi Moradi
+* 15:30 – 16:00	Coffee Break
+* 16:00 – 16:30	Interactive session with point process analysis Part II: Learn how to find the hotspots in cities’ street network.	Fernando Benitez,  Mehdi Moradi
+* 16:30 – 17:00	Open Discussion and Conclusions outline for a research report and future outcomes, related to re-use, discoverability and relevant open data in cities.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
+
 
 ## Keynote Speaker.
+
 Heleen Vollers: Senior Management Consultant at Capgemini Consulting. She works in the Public Insights & Data practice of Capgemini Consulting where she is a member of Capgemini’s global EU account.
 
 Heleen is actively involved in the development of the European Data Portal and associated services, on behalf of the European Commission – DG CONNECT. She is the stream lead on support services to countries as they mature on their Open Data journey and is in charge of stakeholder management. In addition, she leads the research work on measuring the level of Open Data maturity across Europe.
 
 Before joining Capgemini Consulting, she worked as Director EU Affairs in Brussels representing the critical raw materials industry.
 
-if yoy have some questions or comments please contact us by email to Fernando Benitez - benitezm@uji.es 
+## Questions, comments.
+
+if yoy have some questions or comments please contact us by email to Fernando Benitez - benitezm@uji.es or Mohammad Medhi Moradi - moradi@uji.es
+
