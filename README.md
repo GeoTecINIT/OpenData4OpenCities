@@ -16,7 +16,7 @@ The purpose of the hands-on session is to cover the discussion about reuse of op
 
 ## Before the Workshop
 
-### DO NOT FORGET TO BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCTIONS [here](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/Installation%20Instruccions/Instuctions4SpatialPointProcessAnalysis.pdf) FOR THE INTERACTIVE SESSION WITH POINT PROCESS ANALYSIS 
+### DO NOT FORGET TO BRING YOU OWN COMPUTER AND FOLLOW THE INSTALLATION INSTRUCTIONS [download here the instructions or follow the next steps](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/Installation%20Instruccions/Instuctions4SpatialPointProcessAnalysis.pdf) FOR THE INTERACTIVE SESSION WITH POINT PROCESS ANALYSIS 
 
 ## Install software requeriments.
 
