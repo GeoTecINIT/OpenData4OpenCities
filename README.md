@@ -11,6 +11,12 @@ Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
 
 Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
 
+## How to use this repo
+
+Each directory contains a README.md that should be read before exploring any sub-directories. You can just browse the directories on github.com in your favorite browser for instructions on how to use the directory's contents.
+
+Since this README is at the top-level, it contains the general information and activities.
+
 ## Workshop activities
 
 This workshop had two interactive sessions, you can follow the following seccions to get information of each activity.
