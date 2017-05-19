@@ -2,7 +2,7 @@
 
 This section cover the second activity made during the last AGILE pre Conference full day workshop. This section is a tutuorial where you will find all the steps to create a intensity network using a spatial point process analyisis. The methodology proposed here is part of current research Esr12 in GeoC:Enabling Open Cities, lead by P.hD Candidate Mohamad Medhi Moradi and is a use case to apply aforementioned method using avaliable open data in Medellin City. To get more details of the method do not hesitage to contac us. 
 
-![alt text](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/images/IMG_0811.JPG)
+![alt text](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/images/IMG_0802.JPG)
 
 ## Questions, comments.
 
