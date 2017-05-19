@@ -14,13 +14,13 @@ Find here the detailed agenda of this workshop, the presentations slides, and ou
 ## Workshop activities
 
 This workshop had two interactive sessions. 
-### 1.	Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
+### 1.Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
 
-•	Is the downloadable formats the effective way to promote the reuse of open data?
-•	What should be the precise and efficient way to display data in open data portals?
-•	Moreover, what should be the way to make the open data in cities available: through SDI portals, Open Data portals or both?
+* Is the downloadable formats the effective way to promote the reuse of open data?
+* What should be the precise and efficient way to display data in open data portals?
+* Moreover, what should be the way to make the open data in cities available: through SDI portals, Open Data portals or both?
 
-Why nowadays the reuse and discoverability lever are important for innovate city? Get all the details and results of this group discussion and remarks presented around the questions, following this link. 
+Why nowadays the reuse and discoverability lever are important for innovate city? Get all the details and results of this group discussion and remarks presented around the questions.
 
 If you want to contribute and improve the discussion feel free to folk this repo and make your contributions.
 
