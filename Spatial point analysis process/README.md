@@ -1,3 +1,7 @@
+## Spatial point Process analysis using Open Data, Toward to create a intensity network for Medellin City using car accidents events and street network. 
+
+This section cover the second activity made during the last AGILE pre Conference full day workshop.
+
 ## Install software requeriments.
 
 In order to get ready for the session on spatial point processes, you may find the following information
