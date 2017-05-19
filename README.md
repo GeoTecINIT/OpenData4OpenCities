@@ -13,7 +13,8 @@ Find here the detailed agenda of this workshop, the presentations slides, and ou
 
 ## Workshop activities
 
-This workshop had two interactive sessions. 
+This workshop had two interactive sessions, you can follow the following seccions to get information of each activity.
+
 ### 1.Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
 
 * Is the downloadable formats the effective way to promote the reuse of open data?
@@ -22,14 +23,17 @@ This workshop had two interactive sessions.
 
 Why nowadays the reuse and discoverability lever are important for innovate city? Get all the details and results of this group discussion and remarks presented around the questions.
 
-If you want to contribute and improve the discussion feel free to folk this repo and make your contributions.
+If you want to contribute and improve this discussion feel free to fork this repo, all contributions are welcome.
 
-### 2.	Spatial Point process for car accidents using Open Data from Medellin City.
+### 2.Spatial Point process for car accidents using Open Data from Medellin City.
+
 This new methodology allows to create an intensity network using the city street network and points events in a city.
-For more information of this use case and the steps made during this workshop, follow this link. 
-All questions, comments and suggestion are welcome. Just folk this repo or follow the wizard to get the results of this analysis, besides if you need more help or assistance to understand this new spatial point process, we are glad to attend you.
+For more information of this use case and the steps made during this workshop.
 
-## AGENDA OF PRESENTATIONS (the workshop took place in the last AGILE 2017 conference)
+All questions, comments, and suggestion are welcome. Just fork this repo or follow the wizard to get the results of this analysis, besides if you need more help or assistance to understand this new spatial point process, we are glad to attend you.
+
+
+## Agenda (the workshop took place in the last AGILE 2017 conference)
 
 Would you like to access the selected papers and presentations presented during the conference? Then please [click](http://opendata4opencities.uji.es/)  
 
