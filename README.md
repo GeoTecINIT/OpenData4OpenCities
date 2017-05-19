@@ -11,8 +11,24 @@ Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
 
 Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
 
-## Hand-on Excersices and Open Discussion. 
-The purpose of the hands-on session is to cover the discussion about reuse of open data, and apply the current open data in a spatial point process which needs some instruccton to get the rigth results, during this workshop we will cover some theorical aspects relates to how open data should be gathered and how we can analyst using point processes.
+## Workshop activities
+
+This workshop had two interactive sessions. 
+### 1.	Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
+
+•	Is the downloadable formats the effective way to promote the reuse of open data?
+•	What should be the precise and efficient way to display data in open data portals?
+•	Moreover, what should be the way to make the open data in cities available: through SDI portals, Open Data portals or both?
+
+Why nowadays the reuse and discoverability lever are important for innovate city? Get all the details and results of this group discussion and remarks presented around the questions, following this link. 
+
+If you want to contribute and improve the discussion feel free to folk this repo and make your contributions.
+
+### 2.	Spatial Point process for car accidents using Open Data from Medellin City.
+This new methodology allows to create an intensity network using the city street network and points events in a city.
+For more information of this use case and the steps made during this workshop, follow this link. 
+All questions, comments and suggestion are welcome. Just folk this repo or follow the wizard to get the results of this analysis, besides if you need more help or assistance to understand this new spatial point process, we are glad to attend you.
+
 
 ## Before the Workshop
 
@@ -80,7 +96,7 @@ You can validate their connectivy usng a GIS client such as ArcGIS or QGIS.
 * R.
 
 
-## DETAILED AGENDA 
+## AGENDA OF PRESENTATIONS  
 
 * 9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 * 9:30 – 10:00	Keynote Talk:  Barriers and benefits in working with Open Data.	Heleen Vollers, European Data Portal.
