@@ -20,6 +20,10 @@ Raw Data (Without any modification)
 * [Car accidents in Medellin City year 2016](https://geomedellin-m-medellin.opendata.arcgis.com/datasets?q=accidentalidad%202016)
 * [Street Network in Medelin City Year 2014](https://www.medellin.gov.co/geonetwork/srv/spa/catalog.search#/search?resultType=details&from=1&to=20&sortBy=relevance&fast=index&_content_type=json&any=malla)
 
+## More resources
+You may need to study some parts of [Spatial Point Patterns: Methodology and Applications with R](https://www.crcpress.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200), especially last chapter.
+
+
 ## Step 1: Setup and Install software requeriments.
 
 In order to get ready for the analysis on spatial point processes.
@@ -51,7 +55,6 @@ install github('spatstat/spatstat')
 ```
 install.packages("remotes")
 ```
-### You may need to study some parts of [Spatial Point Patterns: Methodology and Applications with R](https://www.crcpress.com/Spatial-Point-Patterns-Methodology-and-Applications-with-R/Baddeley-Rubak-Turner/p/book/9781482210200), especially last chapter.
 
 ## Step 2. Fixing Raw Datasets 
 
