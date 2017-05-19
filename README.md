@@ -25,7 +25,7 @@ Why nowadays the reuse and discoverability lever are important for innovate city
 
 If you want to contribute and improve this discussion feel free to fork this repo, all contributions are welcome.
 
-### 2. Spatial Point process for car accidents using Open Data from Medellin City.
+### [2. Spatial Point process for car accidents using Open Data from Medellin City. ](https://github.com/GeoTecINIT/OpenData4OpenCities/tree/master/Spatial%20point%20analysis%20process)
 
 This new methodology allows to create an intensity network using the city street network and points events in a city.
 For more information of this use case and the steps made during this workshop.
