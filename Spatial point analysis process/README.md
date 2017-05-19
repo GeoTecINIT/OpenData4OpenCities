@@ -74,4 +74,4 @@ Lot of Open data portals handle their own spatial reference system, especially t
 
 You MUST guarantee that both dataset has the same spatial reference. 
 
-
+## Step 3. Analisys.
