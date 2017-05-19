@@ -15,7 +15,7 @@ Find here the detailed agenda of this workshop, the presentations slides, and ou
 
 This workshop had two interactive sessions, you can follow the following seccions to get information of each activity.
 
-### 1.Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
+### 1. Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
 
 * Is the downloadable formats the effective way to promote the reuse of open data?
 * What should be the precise and efficient way to display data in open data portals?
@@ -25,7 +25,7 @@ Why nowadays the reuse and discoverability lever are important for innovate city
 
 If you want to contribute and improve this discussion feel free to fork this repo, all contributions are welcome.
 
-### 2.Spatial Point process for car accidents using Open Data from Medellin City.
+### 2. Spatial Point process for car accidents using Open Data from Medellin City.
 
 This new methodology allows to create an intensity network using the city street network and points events in a city.
 For more information of this use case and the steps made during this workshop.
