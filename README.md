@@ -21,7 +21,7 @@ Since this README is at the top-level, it contains the general information and a
 
 This workshop had two interactive sessions, you can follow the following seccions to get information of each activity.
 
-### 1. Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0.
+### [1. Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0](https://github.com/GeoTecINIT/OpenData4OpenCities/tree/master/Group%20Wallpapers%20activity)
 
 * Is the downloadable formats the effective way to promote the reuse of open data?
 * What should be the precise and efficient way to display data in open data portals?
