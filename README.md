@@ -1,13 +1,13 @@
-# Open Data for Open Cities full day Workshop: Re-use and discovery level, applied to the spatial point analysis process on linear networks.
+# 2nd AGILE Workshop Open Data for Open Cities - OD4OC : The reuse of open data through spatial analysis.
 
-5th Participatory Workshop of [initiative CityData 3.0](http://opendata4opencities.uji.es) for AGILE 2017 Conference in  Wageningen University, The Netherlands.
+This is the second version of the Participatory Workshop Open Data for Open Cities (http://opendata4opencities.uji.es) for AGILE 2018 Conference in  Lund University, Lund - Sweden.
 
 In case you find the resources of this page useful to incorporate them in your projects or research, the authors appreciate to be mentioned.  
-Fernando Benitez, Universitat Jaume I, Spain - benitezm@uji.es
-Mohammad Medhi Moradi, Universitar Jaume I, Spain - moradi@uji.es
+Adeoluwa Akande, Universidade Nova de Lisboa, Portugal - adeoluwa.akande@novaims.unl.pt
+Fernando Benitez, Universitar Jaume I, Spain - benitezm@uji.es
 [GeoC: Enabling Open Cities](http://geo-c.eu/)
 
-[Here](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/AGILE2017%20OpenData4OpenCities.pdf) you can read and download the slides of this workshop.
+[Here](Soon) you will can read and download the slides of this workshop.
 
 Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
 
@@ -21,7 +21,7 @@ Since this README is at the top-level, it contains the general information and a
 
 This workshop had two interactive sessions, you can follow the following seccions to get information of each activity.
 
-### [1. Group discussion with participants and Open Data experts: Around three wallpapers with three remain questions in initiative City Data 3.0](https://github.com/GeoTecINIT/OpenData4OpenCities/tree/master/Group%20Wallpapers%20activity)
+### [1.Session 1](REF)
 
 * Is the downloadable formats the effective way to promote the reuse of open data?
 * What should be the precise and efficient way to display data in open data portals?
@@ -31,7 +31,7 @@ Why nowadays the reuse and discoverability lever are important for innovate city
 
 If you want to contribute and improve this discussion feel free to fork this repo, all contributions are welcome.
 
-### [2. Spatial Point process for car accidents using Open Data from Medellin City. ](https://github.com/GeoTecINIT/OpenData4OpenCities/tree/master/Spatial%20point%20analysis%20process)
+### [2. Session 2 ](REF)
 
 This new methodology allows to create an intensity network using the city street network and points events in a city.
 For more information of this use case and the steps made during this workshop.
@@ -39,7 +39,7 @@ For more information of this use case and the steps made during this workshop.
 All questions, comments, and suggestion are welcome. Just fork this repo or follow the wizard to get the results of this analysis, besides if you need more help or assistance to understand this new spatial point process, we are glad to attend you.
 
 
-## Agenda (the workshop took place in the last AGILE 2017 conference)
+## Preleminary Agenda (the workshop will take place in the last AGILE 2018 conference)
 
 Would you like to access the selected papers and presentations presented during the conference? Then please [click](http://opendata4opencities.uji.es/)  
 
@@ -59,7 +59,7 @@ point process models for seismical analysis.	Marianna Siino,  Dipartimento di Sc
 * 16:00 – 16:30	Interactive session with point process analysis Part II: Learn how to find the hotspots in cities’ street network.	Fernando Benitez,  Mehdi Moradi
 * 16:30 – 17:00	Open Discussion and Conclusions outline for a research report and future outcomes, related to re-use, discoverability and relevant open data in cities.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 
-## Keynote Speaker. [Heleen Vollers](https://nl.linkedin.com/in/heleen-vollers-527a0210) From [European Data Portal](https://www.europeandataportal.eu/en)
+## Keynote Speaker. [Announcend Soon](LINK) From [Soon](REF)
 
 Heleen Vollers: Senior Management Consultant at Capgemini Consulting. She works in the Public Insights & Data practice of Capgemini Consulting where she is a member of Capgemini’s global EU account.
 
