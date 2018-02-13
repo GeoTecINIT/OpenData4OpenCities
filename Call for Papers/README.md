@@ -1,6 +1,6 @@
 # If you are interested in present your work in this workshop, please follow the template enclose here.
 
-For Latex users, you have a template in this repo.
+For Latex users, you have a template in the folder Template for Papers, in this repo.
 
 ## Questions, comments.
 
