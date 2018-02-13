@@ -43,21 +43,6 @@ All questions, comments, and suggestion are welcome. Just fork this repo or foll
 
 Would you like to access the selected papers and presentations presented during the conference? Then please [click](http://opendata4opencities.uji.es/)  
 
-* 9:00 – 9:30	Opening and Introduction to the workshop.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
-* 9:30 – 10:00	Keynote Talk:  Barriers and benefits in working with Open Data.	Heleen Vollers, European Data Portal.
-* 10:00 – 10:30	Open data portals as part of the open data ecosystem? Lessons learned from geoportal research.	Bastiaan van Loenen, Knowledge Centre Open Data
-Joep Crompvoets, Instituut voor de Overheid
-* 10:30 – 11:00	Coffee Break
-* 11:00 – 11:20	Integreating geological and seismological data in
-point process models for seismical analysis.	Marianna Siino,  Dipartimento di Scienze Economiche, Palermo, Italy
-* 11:30 – 11:50	Crime and Open Data, Use case Spain.	Raquel Martin-Pozuelo Ojalbo, Master GeoTec, Spain
-* 12:00 – 12: 20	Open data and disaster management.	Ditsuhi Iskandaryan, Master GeoTec, Spain
-* 12:30 – 13:30	Lunchtime
-* 13:40 – 14:30	Open Discussion:  Hands-on Activity, Open Data and its impact	Fernando Benitez, Medhi Moradi
-* 14:30 – 15:30	Interactive session,  Part I with point process analysis: Learn how to find the hotspots in cities’ street network. Theory part	Medhi Moradi
-* 15:30 – 16:00	Coffee Break
-* 16:00 – 16:30	Interactive session with point process analysis Part II: Learn how to find the hotspots in cities’ street network.	Fernando Benitez,  Mehdi Moradi
-* 16:30 – 17:00	Open Discussion and Conclusions outline for a research report and future outcomes, related to re-use, discoverability and relevant open data in cities.	Joaquin Huerta, Fernando Benitez, Mehdi Moradi
 
 ## Keynote Speaker. [Announcend Soon](LINK) From [Soon](REF)
 
