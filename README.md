@@ -39,7 +39,7 @@ For more information of this use case and the steps made during this workshop.
 All questions, comments, and suggestion are welcome. Just fork this repo or follow the wizard to get the results of this analysis, besides if you need more help or assistance to understand this new spatial point process, we are glad to attend you.
 
 
-## Preleminary Agenda (the workshop will take place in the last AGILE 2018 conference)
+## This a preleminary Agenda (the workshop will take place in the last AGILE 2018 conference)
 
 Would you like to access the selected papers and presentations presented during the conference? Then please [click](http://opendata4opencities.uji.es/)  
 
@@ -61,15 +61,8 @@ point process models for seismical analysis.	Marianna Siino,  Dipartimento di Sc
 
 ## Keynote Speaker. [Announcend Soon](LINK) From [Soon](REF)
 
-Heleen Vollers: Senior Management Consultant at Capgemini Consulting. She works in the Public Insights & Data practice of Capgemini Consulting where she is a member of Capgemini’s global EU account.
-
-Heleen is actively involved in the development of the European Data Portal and associated services, on behalf of the European Commission – DG CONNECT. She is the stream lead on support services to countries as they mature on their Open Data journey and is in charge of stakeholder management. In addition, she leads the research work on measuring the level of Open Data maturity across Europe.
-
-Before joining Capgemini Consulting, she worked as Director EU Affairs in Brussels representing the critical raw materials industry.
-
 Would you like to access her presentations presented during the workshop? Then please [click](http://opendata4opencities.uji.es/)  
 
 ## Questions, comments.
 
-if you have some questions or comments please contact us by email to Fernando Benitez - benitezm@uji.es or Mohammad Medhi Moradi - moradi@uji.es
-
+if you have some questions or comments please contact us by email to Adeoluwa Akande - adeoluwa.akande@novaims.unl.pt or Fernando Benitez - benitezm@uji.es.
