@@ -1,4 +1,6 @@
-# To submmit you paper, please attach it in this folder once you have clone this repo.
+# To submmit the manuscript of your work, please enclosed here, in this folder once you have clone this repo.
+
+Do not forget follow the template, suggested in the up level folder.
 
 ## Questions, comments.
 
