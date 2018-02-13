@@ -1,4 +1,4 @@
-# 2nd AGILE Workshop Open Data for Open Cities - OD4OC : The reuse of open data through spatial analysis.
+# 2nd AGILE Workshop Open Data for Open Cities: The reuse of open data through spatial analysis.
 
 This is the second version of the Participatory Workshop Open Data for Open Cities (http://opendata4opencities.uji.es) for AGILE 2018 Conference in  Lund University, Lund - Sweden.
 
