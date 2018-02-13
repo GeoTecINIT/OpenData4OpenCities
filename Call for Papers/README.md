@@ -1,4 +1,4 @@
-# Here you can find the paper template.
+# If you are interested in present your work in this workshop, please follow the template enclose here.
 
 You have the option to make in a word document or Latex. 
 
