@@ -1,6 +1,6 @@
 # If you are interested in present your work in this workshop, please follow the template enclose here.
 
-You have the option to make in a word document or Latex. 
+For Latex users, you have a template in this repo.
 
 ## Questions, comments.
 
