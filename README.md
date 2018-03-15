@@ -38,23 +38,13 @@ Here you can find the slides, papers and resources used and ilustrated by select
 
 ### [1.Session 1](REF)
 
-* Is the downloadable formats the effective way to promote the reuse of open data?
-* What should be the precise and efficient way to display data in open data portals?
-* Moreover, what should be the way to make the open data in cities available: through SDI portals, Open Data portals or both?
-
-Why nowadays the reuse and discoverability lever are important for innovate city? Get all the details and results of this group discussion and remarks presented around the questions.
-
-If you want to contribute and improve this discussion feel free to fork this repo, all contributions are welcome.
+Here you will find all the first session resources.
 
 ### [2. Session 2 ](REF)
 
-This new methodology allows to create an intensity network using the city street network and points events in a city.
-For more information of this use case and the steps made during this workshop.
+Here you will find all the Second session resources.
 
-All questions, comments, and suggestion are welcome. Just fork this repo or follow the wizard to get the results of this analysis, besides if you need more help or assistance to understand this new spatial point process, we are glad to attend you.
-
-
-## This a preleminary Agenda (the workshop will take place in the last AGILE 2018 conference). Updated 15 March, 2018.
+## Preleminary Agenda. Updated 15 March, 2018.
 
 Morning Session
 9:00 - 9:30
