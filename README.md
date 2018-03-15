@@ -49,9 +49,6 @@ Here you will find all the Second session resources.
 ### Morning Session
 
 Time | Session | Lead by
-------------- | -------------
-
-
 9:00 - 9:30  | 
 Opening and Introduction to the workshop
  |  Adeoluwa Akande, NOVA
