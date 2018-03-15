@@ -46,11 +46,17 @@ Here you will find all the Second session resources.
 
 ## Preleminary Agenda. Updated 15 March, 2018.
 
-Morning Session
-9:00 - 9:30
+### Morning Session
+
+Time | Session | Lead by
+------------- | -------------
+
+
+9:00 - 9:30  | 
 Opening and Introduction to the workshop
-Adeoluwa Akande, NOVA
+ |  Adeoluwa Akande, NOVA
 Fernando Benitez, UJI
+
 9:30 - 10:00
 Keynote Talk 1: Announced soon
 Cosmina Radu, Campgemeni - 
