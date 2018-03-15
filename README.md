@@ -51,7 +51,7 @@ Here you will find all the Second session resources.
 Time  | Session | Lead by
 ------------- | ------------- | -------------
 9:00 - 9:30  | Opening and Introduction to the workshop  | Adeoluwa Akande, NOVA & Fernando Benitez, UJI
-9:30 - 10:00 | Keynote Talk 1: Announced soon  | osmina Radu, Campgemeni - European Data Portal
+9:30 - 10:00 | Keynote Talk 1: Announced soon  | Cosmina Radu, Campgemeni - European Data Portal
 10:00 - 10:30  | Keynote Talk 2: Announced soon | Andrew Turner, Esri
 10:30 - 11:00 | Tea Break  | All workshop participants
 11:00 - 12:30  | Interactive session 1: The use of open geospatial information to design data-driven initiatives  | Andrew Turner, Esi
