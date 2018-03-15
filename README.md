@@ -17,7 +17,7 @@ Each directory contains a README.md that should be read before exploring any sub
 
 Since this README is at the top-level, it contains the general information and activities.
 
-## workshop abstract
+## Why we are doing this workshop?
 
 Cities are the hubs of innovation driving the economic development of the world. The explosive growth of cities and the rapid expansion of broadband and data are intersecting at a time when the world faces serious challenges to achieving more sustainable development. Cities now have an essential role to play in national and local open data initiatives. However, are cities ready to move forward regarding open data? Are user requirements taken into consideration in open data strategy? How are open data being used to make cities inclusive, safe, resilient and sustainable? Which are the best practice examples to follow?
 
