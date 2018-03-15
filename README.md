@@ -7,9 +7,9 @@ Adeoluwa Akande, Universidade Nova de Lisboa, Portugal - adeoluwa.akande@novaims
 Fernando Benitez, Universitat Jaume I, Spain - benitezm@uji.es
 [GeoC: Enabling Open Cities](http://geo-c.eu/)
 
-[Here](Soon) you will can read and download the slides of this workshop.
+[Here](Soon) you will can read and download the slides of the previoues workshop - AGILE 2017.
 
-Find here the detailed agenda of this workshop, the presentations slides, and our keynote speaker presentation, from European Data Portal. http://opendata4opencities.uji.es
+Find here the detailed agenda of this workshop, the presentations slides, and our keynote speakers presentation, from European Data Portal and ESRI’s Research and Development Center in Washington, DC. http://opendata4opencities.uji.es
 
 ## How to use this repo
 
