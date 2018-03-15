@@ -11,7 +11,7 @@ If your research/project is related to this workshop or you want to be a part of
 * Spatial analysis of open data
 * Machine learning with open data using open tools
 
-# Short Papers to be selected for this Workshop. 
+# :exclamation: Short Papers to be selected for this Workshop. 
 
 Short papers (2000 to 3000-word manuscript) or Position papers (< 1000 words) on your related ongoing research or demo in Open Data, its reuse, and applicability in spatial analysis.  Short papers need to be submitted by the 30th of March. Authors should follow the template for short paper submissions on the AGILE 2018 call for papers page and use the [Word.doc](https://agile-online.org/images/conference_2018/documents/AGILE_2018_v1c_PaperAndPoster_Word_HarvardStyle_nonXML.doc) template or the [Word.docx](https://agile-online.org/images/conference_2018/documents/AGILE_2018_v1b_PaperAndPoster_Word_HarvardStyle.docx) , for the submission author need to provide their paper in PDF.
 
