@@ -21,6 +21,8 @@ Selected papers will be published on the workshop website and have the opportuni
 
 # Special Issue in Information Open Access Journal by MDPI
 
+![picture alt](https://github.com/GeoTecINIT/OpenData4OpenCities/blob/master/images/Information%20logo.png?raw=true)
+
 Full papers (< 6000 words). Authors of selected workshop position and short papers will be invited to submit a full paper on your completed research in open data, its reuse and applicability in enabling open cities, to a special issue of /Information/ Journal with a deadline of 1st September 2018.
 
 Information is a fully open access journal published monthly online by MDPI and indexed by Scopus (Elsevier), Ei Compendex and Emerging Sources Citation Index (ESCI – Web of Science). Please contact the OD4OC workshop committee for more details or if you have any questions regarding this special issue.
