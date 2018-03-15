@@ -50,52 +50,24 @@ Here you will find all the Second session resources.
 
 Time  | Session | Lead by
 ------------- | ------------- | -------------
-9:00 - 9:30  | Opening and Introduction to the workshop  | Adeoluwa Akande, NOVA
-Fernando Benitez, UJI
-Content Cell  | Content Cell
+9:00 - 9:30  | Opening and Introduction to the workshop  | Adeoluwa Akande, NOVA & Fernando Benitez, UJI
+9:30 - 10:00 | Keynote Talk 1: Announced soon  | osmina Radu, Campgemeni - European Data Portal
+10:00 - 10:30  | Keynote Talk 2: Announced soon | Andrew Turner, Esri
+10:30 - 11:00 | Tea Break  | All workshop participants
+11:00 - 12:30  | Interactive session 1: The use of open geospatial information to design data-driven initiatives  | Andrew Turner, Esi
+12:30 - 13:30 | Lunch  | All workshop participants
 
-Time | Session | Lead by
-9:00 - 9:30  | 
-Opening and Introduction to the workshop
- |  Adeoluwa Akande, NOVA
-Fernando Benitez, UJI
+### Afternoon Session
+Time  | Session | Lead by
+------------- | ------------- | -------------
+13:30 - 14:00 | Short paper 1: Call for Papers | --
+14:00 - 14:30 | Short paper 2: Call for Papers | --
+14:30 - 15:00  | Short paper 3: Call for Papers | --
+15:00 - 15:30 | Tea Break  | All workshop participants
+15:30 - 16:00  | Short paper 4: Call for Papers  | --
+16:00 - 16:30 | Interactive session 2: Statistical analysis for building indicators to feel the pulse of a city using open data  | Fernando Santa, NOVA
+16:30 - 17:00 | Discussion and Conclusion | Adeoluwa Akande, NOVA, Fernando Benitez, UJI
 
-9:30 - 10:00
-Keynote Talk 1: Announced soon
-Cosmina Radu, Campgemeni - 
-European Data Portal
-10:00 - 10:30
-Keynote Talk 2: Announced soon
-Michael Gould, UJI
-Andrew Turner, Esri
-10:30 - 11:00
-Tea Break
-All workshop participants
-11:00 - 12:30
-Interactive session 1: The use of open geospatial information to design data-driven initiatives
-Andrew Turner, Esi
-12:30 - 13:30
-Lunch
-All workshop participants
-Afternoon Session
-13:30 - 14:00
-Short paper 1: Call for Papers
-14:00 - 14:30
-Short paper 2: Call for Papers
-14:30 - 15:00
-Short paper 3: Call for Papers
-15:00 - 15:30
-Tea Break
-All workshop participants
-15:30 - 16:00
-Short paper 4: Call for Papers
-16:00 - 16:30
-Interactive session 2: Statistical analysis for building indicators to feel the pulse of a city using open data
-Fernando Santa, NOVA
-16:30 - 17:00
-Discussion and Conclusion
-Adeoluwa Akande, NOVA
-Fernando Benitez, UJI
 
 ## Keynote Speakers. 
 
