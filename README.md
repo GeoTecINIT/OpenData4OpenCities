@@ -85,6 +85,19 @@ Andrew is the current director and Chief Technical Officer (CTO) of ESRI’s Res
 
 Would you like to access her presentations presented during the workshop? Then please [click](http://opendata4opencities.uji.es/)  
 
+## Who is organizing this workshop?
+
+The workshop will be managed by people from two European universities which are part of “Enabling Open Cities (Geo-C, www.geo-c.eu)” project. If you have any question, please do not hesitate to contact us.
+
+* NOVA IMS – Nova Information Management School, Universidade Nova de Lisboa., Portugal
+** Prof. Marco Painho, painho@novaims.unl.pt,
+** Prof Pedro Cabral, pcabral@novaims.unl.pt ,
+** Adeoluwa Akande, adeoluwa.akande@novaims.unl.pt
+* Institute of new imaging technology, Universitat Jaume I, Spain.
+** Prof. Joaquin Huerta, huerta@uji.es.
+** Michael Gould, gould@uji.es.
+** Fernando Benitez, benitezm@uji.es.
+
 ## Questions, comments.
 
 if you have some questions or comments please contact us by email to Adeoluwa Akande - adeoluwa.akande@novaims.unl.pt or Fernando Benitez - benitezm@uji.es.
