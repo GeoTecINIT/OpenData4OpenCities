@@ -21,7 +21,7 @@ Since this README is at the top-level, it contains the general information and a
 
 Cities are the hubs of innovation driving the economic development of the world. The explosive growth of cities and the rapid expansion of broadband and data are intersecting at a time when the world faces serious challenges to achieving more sustainable development. Cities now have an essential role to play in national and local open data initiatives. However, are cities ready to move forward regarding open data? Are user requirements taken into consideration in open data strategy? How are open data being used to make cities inclusive, safe, resilient and sustainable? Which are the best practice examples to follow?
 
-This second edition of the OD4OC workshop has a broad agenda that will guide you in how to use open geospatial data, organized around policy goals to design data-driven initiatives in communities. The workshop features two key speakers, Wendy Carrara from the European Data Portal, who will present insights from recent reports on the future of open data portals, economic benefits and entrepreneurship of open data; and Andrew Turner from Esri’s development center in Washington DC, who will show examples of open data portals built to meet the needs of citizens.
+This second edition of the OD4OC workshop has a broad agenda that will guide you in how to use open geospatial data, organized around policy goals to design data-driven initiatives in communities. The workshop features two key speakers, Cosmina Radu from the European Data Portal, who will present insights from recent reports on the future of open data portals, economic benefits and entrepreneurship of open data; and Andrew Turner from Esri’s development center in Washington DC, who will show examples of open data portals built to meet the needs of citizens.
 
 Four short-papers will be selected from those submitted, to be presented in the workshop. Authors of all accepted workshop papers will be invited to submit full papers to a special issue of the Journal /Information/ of MDPI with a submission deadline of 1st September 2018. Finally, one portion of the workshop will be dedicated to  lead a brief discussion over the reusability of open geographic data, and some examples of the applicability of spatial analysis using open data from Eurostat to develop indicators to measure sustainability of cities in Europe.
 
@@ -51,10 +51,10 @@ Here you will find all the Second session resources.
 Time  | Session | Lead by
 ------------- | ------------- | -------------
 9:00 - 9:30  | Opening and Introduction to the workshop  | Adeoluwa Akande, NOVA & Fernando Benitez, UJI
-9:30 - 10:00 | Keynote Talk 1: Announced soon  | Cosmina Radu, Campgemeni - European Data Portal
-10:00 - 10:30  | Keynote Talk 2: Announced soon | Andrew Turner, Esri
+9:30 - 10:00 | Keynote title Talk: Announced soon  | Cosmina Radu, Campgemeni - European Data Portal
+10:00 - 10:30  | The use of open geospatial information to design data-driven initiatives - First Part | Andrew Turner, Esri
 10:30 - 11:00 | Tea Break  | All workshop participants
-11:00 - 12:30  | Interactive session 1: The use of open geospatial information to design data-driven initiatives  | Andrew Turner, Esi
+11:00 - 12:30  |The use of open geospatial information to design data-driven initiatives - Second Part | Andrew Turner, Esi
 12:30 - 13:30 | Lunch  | All workshop participants
 
 ### Afternoon Session
@@ -65,7 +65,7 @@ Time  | Session | Lead by
 14:30 - 15:00  | Short paper 3: Call for Papers | --
 15:00 - 15:30 | Tea Break  | All workshop participants
 15:30 - 16:00  | Short paper 4: Call for Papers  | --
-16:00 - 16:30 | Interactive session 2: Statistical analysis for building indicators to feel the pulse of a city using open data  | Fernando Santa, NOVA
+16:00 - 16:30 | Interactive session: Statistical analysis for building indicators to feel the pulse of a city using open data  | Fernando Santa, NOVA
 16:30 - 17:00 | Discussion and Conclusion | Adeoluwa Akande, NOVA, Fernando Benitez, UJI
 
 
