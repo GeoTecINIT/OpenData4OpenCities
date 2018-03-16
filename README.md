@@ -95,7 +95,7 @@ The workshop will be managed by people from two European universities which are 
     * Adeoluwa Akande, adeoluwa.akande@novaims.unl.pt
 * Institute of new imaging technology, Universitat Jaume I, Spain.
     * Prof. Joaquin Huerta, huerta@uji.es.
-    * Michael Gould, gould@uji.es.
+    * Prof. Michael Gould, gould@uji.es.
     * Fernando Benitez, benitezm@uji.es.
 
 ## Questions, comments.
