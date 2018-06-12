@@ -1,0 +1,256 @@
+<!-- R Commander Markdown Template -->
+
+Building Indicators through Principal Component Analysis
+=======================
+
+### Fernando Santa
+
+### `r as.character(Sys.Date())`
+
+```{r echo=FALSE}
+# include this code chunk as-is to set options
+knitr::opts_chunk$set(comment=NA, prompt=TRUE, out.width=750, fig.height=8, fig.width=8)
+library(Rcmdr)
+library(car)
+library(RcmdrMisc)
+```
+
+
+```{r echo=FALSE}
+# include this code chunk as-is to enable 3D graphs
+library(rgl)
+knitr::knit_hooks$set(webgl = hook_webgl)
+```
+
+
+```{r}
+rm(list = ls())
+```
+
+
+```{r}
+Dataset <-read.table("/Users/lfsantag83/Desktop/Composite Indicators/workshop_Agile_12062018.txt",header=TRUE, sep="\t", na.strings="NA", dec=".", strip.white=TRUE)
+```
+
+```{r}
+row.names(Dataset) <- as.character(Dataset$city)
+```
+
+
+```{r}
+Dataset$city <- NULL
+```
+
+
+```{r}
+numSummary(Dataset[,c("gdp", "inf_mort", "lif_exp_fem", "lif_exp_male", 
+  "n_hig_edu_insts", "n_hosp", "pm10", "unem_rate"), drop=FALSE], statistics=c("mean", 
+  "sd", "quantiles", "cv", "skewness", "kurtosis"), quantiles=c(0,1), type="2")
+```
+
+
+```{r}
+with(Dataset, Hist(inf_mort, scale="percent", breaks="Sturges", col="darkgray"))
+```
+
+
+```{r}
+round(cor(Dataset[,c("gdp","inf_mort","lif_exp_fem","lif_exp_male","n_hig_edu_insts",
+  "n_hosp",
+  "pm10","unem_rate")], use="complete"),2)
+```
+
+
+```{r}
+scatterplot(inf_mort~lif_exp_fem, regLine=TRUE, smooth=FALSE, boxplots=FALSE, 
+  data=Dataset)
+```
+
+
+```{r}
+scatterplotMatrix(~gdp+inf_mort+lif_exp_fem+lif_exp_male+n_hig_edu_insts+n_hosp+pm10+unem_rate,
+  
+   regLine=TRUE, smooth=FALSE, diagonal=list(method="histogram"), data=Dataset)
+```
+
+
+```{r}
+Dataset.PCA<-Dataset[, c("gdp", "unem_rate", "n_hig_edu_insts", "inf_mort", 
+  "lif_exp_male", "lif_exp_fem", "n_hosp", "pm10")]
+```
+
+
+```{r}
+res<-PCA(Dataset.PCA , scale.unit=TRUE, ncp=5, graph = FALSE)
+```
+
+
+```{r}
+res.hcpc<-HCPC(res ,nb.clust=0,consol=TRUE,min=3,max=10,graph=TRUE)
+```
+
+
+```{r}
+res.hcpc$data.clust[,ncol(res.hcpc$data.clust),drop=F]
+```
+
+
+```{r}
+plot.PCA(res, axes=c(1, 2), choix="var", new.plot=TRUE, col.var="black",
+  col.quanti.sup="blue", label=c("var", "quanti.sup"), lim.cos2.var=0)
+```
+
+
+```{r}
+summary(res, nb.dec = 3, nbelements=10, nbind = 10, ncp = 3, file="")
+```
+
+
+```{r}
+remove(Dataset.PCA)
+```
+
+
+```{r}
+res$var$coord
+```
+
+
+```{r}
+Dataset1=Dataset
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,1]))
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,2]))
+```
+
+
+```{r}
+Dataset1[,2] <- with(Dataset1, sqrt(Dataset1[,2]))
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,3]))
+```
+
+
+```{r}
+Dataset1[,3] <- with(Dataset1, log(Dataset1[,3]))
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,4]))
+```
+
+
+```{r}
+Dataset1[,4] <- with(Dataset1, Dataset1[,4]^0.14)
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,5]))
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,6]))
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,7]))
+```
+
+
+```{r}
+Dataset1[,7] <- with(Dataset1, log(Dataset1[,7]))
+```
+
+
+```{r}
+summary(powerTransform(Dataset1[,8]))
+```
+
+
+```{r}
+Dataset1[,8] <- with(Dataset1, 1/sqrt(Dataset1[,8]))
+```
+
+
+```{r}
+numSummary(Dataset1[,c("gdp", "inf_mort", "lif_exp_fem", "lif_exp_male", 
+  "n_hig_edu_insts", "n_hosp", "pm10", "unem_rate"), drop=FALSE], statistics=c("mean", 
+  "sd", "cv", "skewness", "kurtosis"), quantiles=c(0,1), type="1")
+```
+
+
+```{r}
+with(Dataset1, Hist(inf_mort, scale="percent", breaks="Sturges", col="darkgray"))
+```
+
+
+```{r}
+round(cor(Dataset1[,c("gdp","inf_mort","lif_exp_fem","lif_exp_male","n_hig_edu_insts",
+  "n_hosp",
+  "pm10","unem_rate")], use="complete"),2)
+```
+
+
+```{r}
+scatterplotMatrix(~gdp+inf_mort+lif_exp_fem+lif_exp_male+n_hig_edu_insts+n_hosp+pm10+unem_rate,
+  
+   regLine=TRUE, smooth=FALSE, diagonal=list(method="histogram"), data=Dataset1)
+```
+
+
+```{r}
+Dataset1.PCA<-Dataset1[, c("gdp", "unem_rate", "n_hig_edu_insts", "inf_mort", 
+  "lif_exp_male", "lif_exp_fem", "n_hosp", "pm10")]
+```
+
+
+```{r}
+res<-PCA(Dataset1.PCA , scale.unit=TRUE, ncp=5, graph = FALSE)
+```
+
+
+```{r}
+res.hcpc<-HCPC(res ,nb.clust=0,consol=TRUE,min=3,max=10,graph=TRUE)
+```
+
+
+```{r}
+res.hcpc$data.clust[,ncol(res.hcpc$data.clust),drop=F]
+```
+
+
+```{r}
+plot.PCA(res, axes=c(1, 2), choix="var", new.plot=TRUE, col.var="black",
+  col.quanti.sup="blue", label=c("var", "quanti.sup"), lim.cos2.var=0)
+```
+
+
+```{r}
+summary(res, nb.dec = 3, nbelements=10, nbind = 10, ncp = 3, file="")
+```
+
+
+```{r}
+remove(Dataset1.PCA)
+```
+
+
+```{r}
+res$var$coord
+```
+
+
